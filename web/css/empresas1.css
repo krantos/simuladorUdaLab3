@@ -1,0 +1,13 @@
+table{
+  color:rgb(254, 254, 254)
+}
+.marginTop{
+  margin-top: 5px;
+  color:#F1EEDA;
+}
+h1{
+  font-size: 40px;
+  margin-left: 30%;
+  font-family: 'Lobster', cursive;
+  color:#F1EEDA;
+}

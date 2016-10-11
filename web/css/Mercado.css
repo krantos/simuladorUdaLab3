@@ -1,0 +1,69 @@
+body{
+	background-image: url(../img/header.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+.MarginLeft{
+	margin-left: 170px;
+}
+
+.MarginDropDown{
+
+	margin-top: 25px;
+	margin-left: 275px;
+}
+
+.MarginTopMiembros{
+
+	margin-top: 100px;
+}
+
+.MarginTop{
+	margin-top: 50px;
+}
+
+.MarginTabla{
+
+	margin-top: 20px;
+	margin-left:  55px;
+
+}
+
+td{
+	color: White;
+
+}
+
+.MarginLeftRanking{
+	margin-left: 490px;
+}
+.MarginLeftRankingDrop{
+	margin-left: 550px;
+}
+
+.imagen{
+
+	margin-left: 380px;
+	margin-top: 35px;
+}
+
+.MarginLeft2{
+	margin-left: 120px;
+}
+.MarginRight{
+	margin-right: 0px;
+}
+
+.elemento{
+margin-top: 15px;
+margin-left: 15px;
+	
+}
+
+.MarginLeft3{
+	margin-left: 40px;
+}
+
+

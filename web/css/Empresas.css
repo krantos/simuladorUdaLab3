@@ -1,0 +1,45 @@
+body{
+	background-image: url(../img/header.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.Titulo{
+font-family: 'Lobster', cursive;
+font-size: 20px;
+
+}
+
+.colorFontCard{
+	color:  #212121;
+}
+
+table{
+
+	margin-top:0px;
+  border-collapse: separate; 
+}
+
+
+
+.MarginLeftInput{
+	margin-left: 45%;
+	margin-bottom: 10px;
+}
+
+.MarginDropDown{
+	margin-left: 303px;
+}
+
+.MarginTopMiembros{
+
+	margin-top: 100px;
+}
+
+.MarginTopEmpresa{
+	margin-top: 80px;
+}
+
+.MarginTopLocal{
+	margin-top: 50px;
+}

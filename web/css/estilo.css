@@ -1,0 +1,28 @@
+
+.fuenteBotones{
+	font-family: "Times New Roman", Times, serif;
+
+}
+.estiloTitulo{
+	font-size: 35px;
+	padding-right: 26px;
+ }
+body{
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 100%;
+}
+
+.titulo{
+font-family: 'Lobster', cursive;
+font-size: 20px;
+
+}
+.tamanioImagen{
+ max-width: 100%;
+    height: auto;
+    width: auto/9; /* Bug de ie8 */
+}
+.mobil{
+ 
+}

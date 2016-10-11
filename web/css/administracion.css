@@ -1,0 +1,55 @@
+body{
+	background-image: url(../img/header.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+h2{
+color:#F1EEDA;
+font-family: 'Lobster', cursive;
+margin-left: 30px;
+font-size: 	20px;
+
+}
+
+h1{
+color:#F1EEDA;
+font-family: 'Lobster', cursive;
+margin:0 auto;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+
+.tdModificado{
+color:#F1EEDA;
+font-family: 'Lobster', cursive;
+font-size: 27px;
+
+}
+
+.tdRondaAnterior{
+	color:#FFF;
+
+}
+
+
+.centrar{
+	padding-left: 150px;
+}
+
+.margin{
+	margin-top: 90px;
+}
+.ancho{
+	width: 250px;
+}
+
+.margin-left{
+	margin-left: 93px;
+	margin-top: 10px;
+}
+.marginTD{
+	padding-left: 300px;
+}
+.marginDrop{
+	margin-left:70px;
+	}

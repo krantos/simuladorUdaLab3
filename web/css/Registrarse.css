@@ -1,0 +1,16 @@
+body{
+	background-image: url(../img/header.jpg);
+	background-position: center;
+}
+h2 {
+	color:#F1EEDA;
+
+}
+.ancho{
+	width: 	300px;
+	margin-top: 10px;
+
+}
+.anchoBoton{
+	width: 150px;
+}

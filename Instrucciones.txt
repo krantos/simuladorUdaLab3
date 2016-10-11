@@ -1,0 +1,16 @@
+Pasos para poner en funcionamiento la página web del proyecto:
+
+En la carpeta Base de Datos se encuentra el archivo con el query para generar la base de datos.
+Para agregar las librerias que hacen falta, se debe ejecutar: composer install
+Una vez instaladas las librerias, se accede al proyecto por medio de la ruta:
+localhost/simulador/web/index.php
+
+como usuario de profesor es: pepe
+contraseña de profesor: 123
+
+como usuario alumno es: marcos
+contraseña de alumno: 123
+
+como usuario alumno es: gabi
+contraseña de alumno: 123
+
